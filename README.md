@@ -1,16 +1,33 @@
-## Hi there 👋
+# Jordan Andrade
 
-<!--
-**jord-andrade/jord-andrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer building reliable products with data and AI.
 
-Here are some ideas to get you started:
+I turn complex workflows into clear interfaces, observable systems and
+decisions that can be traced back to evidence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+| Project | What it demonstrates | Links |
+|---|---|---|
+| **Portfolio** | Product engineering, accessible UI and a reviewable Next.js architecture | [Live](https://jord-andrade.dev) · [Source](https://github.com/jord-andrade/portfolio) |
+| **DataNutri** | Nutrition-data exploration with transparent sources, comparison and export | [Case study](https://jord-andrade.dev/projetos/datanutri) · [Live](https://datanutri.com) |
+
+## Current focus
+
+- trustworthy AI workflows with visible evidence;
+- data-intensive products that remain understandable;
+- full-stack systems with measurable quality.
+
+## Core stack
+
+TypeScript · React · Next.js · Python · FastAPI · PostgreSQL
+
+## How I work
+
+Small dependency surfaces, synthetic data for public demos, reproducible
+commands, automated checks and honest trade-offs.
+
+## Contact
+
+[Portfolio](https://jord-andrade.dev) ·
+[LinkedIn](https://www.linkedin.com/in/jord-andrade/)
